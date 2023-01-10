@@ -1,0 +1,7 @@
+dripstone_block
+dried_kelp
+gold_block
+iron_block
+egg
+snowball
+white_banner
